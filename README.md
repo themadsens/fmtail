@@ -12,5 +12,5 @@ Features include
 * Works on any platform with luajit, terminfo and termios support
 * Integrate with clipboard via external command (like nvim)
 
-Status: **Not even started yet**
+Status: **Not even started yet**<br/>
 License: The [happy license](https://github.com/themadsens/fmtail)
