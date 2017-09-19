@@ -1,1 +1,1 @@
-<html><body>You are being <a href="https://raw.githubusercontent.com/jonstoler/The-Happy-License/master/license.md">redirected</a>.</body></html>
+https://github.com/jonstoler/The-Happy-License/raw/master/license.md
