@@ -1,7 +1,7 @@
 # fmtail
 ### Flemmings Multi Tail
 
-A fullscreen file "tail" or progress monitor in the style of multitail.
+A fullscreen file "tail" or progress monitor in the style of [multitail](https://www.vanheusden.com/multitail).
 
 Features include
 * Syntax coloring, (mostly) compatible with multitail configuration file
