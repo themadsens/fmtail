@@ -13,4 +13,4 @@ Features include
 * Integrate with clipboard via external command (like nvim)
 
 Status: **Not even started yet**<br/>
-License: The [happy license](https://github.com/themadsens/fmtail)
+License: The [happy license](license.md)
